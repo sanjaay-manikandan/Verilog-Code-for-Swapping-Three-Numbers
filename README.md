@@ -94,7 +94,10 @@ module swap_three_numbers_tb;
     end
 endmodule
 ## output
-![Swap numbers](https://github.com/user-attachments/assets/a96d9029-2a47-43c1-a345-89426ab8f7d4)
+![Swap numbers Blocking](https://github.com/user-attachments/assets/b8e4f79e-008f-4eb4-b900-a4bcad0d8f8f)
+![Swap numbers NB](https://github.com/user-attachments/assets/2d764e3e-57d4-4b47-a933-0ff2e8e20938)
+
+
 
 Conclusion
 In this experiment, a Verilog HDL code for swapping three numbers was designed and successfully simulated. The testbench verified the swapping operation, showing that the values of three input numbers (a, b, and c) were swapped correctly without the use of temporary variables. This experiment demonstrated the effectiveness of Verilog in implementing logical operations and control mechanisms such as swapping values. The simulation results confirm the correct functionality of the design.
