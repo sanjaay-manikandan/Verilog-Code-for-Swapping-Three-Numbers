@@ -94,8 +94,10 @@ module swap_three_numbers_tb;
     end
 endmodule
 ## output
-![Swap numbers Blocking](https://github.com/user-attachments/assets/b8e4f79e-008f-4eb4-b900-a4bcad0d8f8f)
-![Swap numbers NB](https://github.com/user-attachments/assets/2d764e3e-57d4-4b47-a933-0ff2e8e20938)
+![Swap numbers](https://github.com/user-attachments/assets/288c370a-de92-42c4-a940-d464080bb40b)
+![Swap numbers NB](https://github.com/user-attachments/assets/8c3650af-f674-45f4-aac5-0d514909a720)
+![Swap numbers Blocking](https://github.com/user-attachments/assets/e9afca08-8805-47f3-a85a-fcda5d1e7b41)
+
 
 
 
